@@ -13,8 +13,8 @@ E atualmente meu objetivo é me tornar um engenheiro de software. </h3>
 <ul>
   <li>🌎Moro em Pirenópolis-GO e tenho vontade de conhecer novas cidades.</li>
   <li>🤝Gosto de trabalho em equipe!</li>
-  <li>🌳Gosto de estar em meio à natureza!</li>
-  <li>🧑‍💻Gosto muinto de tecnologia!</li>
+  <li>🧩Gosto de aprimorar minhas habilidades de resolução de problems no LeetCode</li>
+  <li>🧑🏽‍💻Gosto muinto de tecnologia!</li>
   
 </ul>
 
